@@ -3,7 +3,7 @@ To create this kind of project using Maven.
 
 1) Create a Maven project with archetype 'webapp'
 
-2) Add the 'java' folder and 'resources' folder nad mark them respectively.
+2) Add the 'java' folder and 'resources' folder and mark them  as 'source root' and 'resource root' respectively.
 
 3) Make the nescesarry changes in the web.xml
 
