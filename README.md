@@ -1,4 +1,6 @@
-# jax-rs-project
+# jax-rs-project 
+# Ref: https://github.com/silvae86/IntelliJ13.0-JerseyWS
+
 To create this kind of project using Maven.
 
 1) Create a Maven project with archetype 'webapp'
